@@ -11,7 +11,7 @@ sudo pip3 install virtualenv
 ```bash
 virtualenv venv
 ```
-#### you can use any name insted of venvv
+#### you can use any name insted of venv
 #### Active your virtual environment:
 ```bash
 source venv/bin/activate
