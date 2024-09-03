@@ -5,7 +5,8 @@ sudo apt-get install python3-pip
 ```
 #### Then install virtualenv using pip3
 ```bash
-sudo pip3 install virtualenv 
+sudo pip3 install virtualenv
+```
 ####Now create a virtual environment
 ```bash
 virtualenv venv
